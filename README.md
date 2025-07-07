@@ -5,9 +5,8 @@ This repository contains Software Requirements Specification (SRS) and Software 
 ## Projects
 
 ### 1. Digital Restaurant Reservation and Menu System
-- `Restaurant_Reservation_SRS_v1.0.pdf`: Software Requirements Specification
-- `Restaurant_Reservation_SAD_v1.0.pdf`: Software Architecture Design
+- Restaurant_Reservation_SRS_and_SAD.pdf: Software Requirements Specification and Software Architecture Design
 
 ### 2. E-Nabız - Digital Health System
-- `E-Nabiz_HealthSystem_SRS_v2.0.pdf`: Software Requirements Specification
+- E-Nabiz_HealthSystem_SRS.pdf: Software Requirements Specification
 
